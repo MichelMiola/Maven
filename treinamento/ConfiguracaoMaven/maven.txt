@@ -1,0 +1,1 @@
+mvn archetype:generate -DgroupId=br.com.caelum.maven -DartifactId=treinamneto -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
